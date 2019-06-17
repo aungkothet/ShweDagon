@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.testing1.example.android.testingpj">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:logo="@mipmap/ic_launcher">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Activities.HistoryActivity"
+            android:label="@string/history"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".Activities.ArtsAndArchiActivity"
+            android:label="@string/arts"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".Activities.ArtsAndArchiDetailActivity"
+            android:parentActivityName=".Activities.ArtsAndArchiActivity" />
+        <activity
+            android:name=".Activities.HistoryDetailActivity"
+            android:parentActivityName=".Activities.HistoryActivity" />
+        <activity
+            android:name=".Activities.NineMiraclesActivity"
+            android:label="@string/title_activity_nine_miracles"
+            android:parentActivityName=".MainActivity"></activity>
+
+        <activity
+            android:name=".Activities.SeasonalFestivalActivity"
+            android:label="@string/seasonal"
+            android:parentActivityName=".MainActivity" />
+
+        <activity
+            android:name=".Activities.FamousThingActivity"
+            android:label="@string/famousThing"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".Activities.FamousThingDetailActivity"
+            android:parentActivityName=".Activities.FamousThingActivity"></activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="History">
+        <item>The Great Shwedagon</item>
+        <item>History of Shwedagon Pagoda</item>
+        <item>The Original Shwedagon</item>
+        <item>The Colonialist Day</item>
+        <item>Raising the Shwedagon Pagoda</item>
+    </string-array>
+    <string-array name="ArchitectureAndArts">
+        <item>Height of Shwedagon Pagoda</item>
+        <item>Design and Sections</item>
+        <item>Plinth (Upper Terrace)</item>
+        <item>Terraces</item>
+        <item>Bell-shaped Dome</item>
+        <item>Phaung-yit</item>
+        <item>Kya-Nu</item>
+        <item>Kya-Lan</item>
+        <item>Kya-Hmout</item>
+        <item>Ywelone</item>
+        <item>Hti-dout</item>
+        <item>Hnget-pyaw-phu</item>
+        <item>Htitaw</item>
+        <item>Hnget Myat Na</item>
+        <item>Sein-Phutaw</item>
+        <item>Ten Traditional Arts and Crafts</item>
+        <item>Kinds of Buddha Statues</item>
+        <item>Classification of \"Mudras\" of the Buddha Statues</item>
+        <item>Interesting features around the Pagoda platform</item>
+        <item>Ten Jatakas</item>
+        <item>"Eight Principal Scenes in Buddha's life"</item>
+        <item>Eight external Victories of Gauttama Buddha</item>
+    </string-array>
+    <string-array name="detailArts">
+        <item>\u0009 As of the official measurement the Shwedagon Pagoda is of the height of 326 feet.
+ \u0009 The original Shwedagon Pagoda erected was said to have been of a height of 44 cubits(66 feet)(one cubit =18 inches)</item>
+        <item>\u0009 The original Shwedagon Pagoda erected was said to have been of a height of 44 cubits(66 feet)(one cubit =18 inches).
+\u0009As of the official measurement the Shwedagon Pagoda is of the height of 326 feet nowadays.
+\u0009 The base or plinth of the stupa is made of bricks covered with gold plates. Above the base are terraces (pyitsaya) that only monks and men can access. Next is the bell-shaped part (khaung laung bon) of the stupa. Above that is the turban (baung yit), then the inverted almsbowl (thabeik), inverted and upright lotus petals (kya hmauk kya hlan), the banana bud (nga pyaw bu) and then the crown. The crown or umbrella (hti) is tipped with 5,448 diamonds and 2,317 rubies. Immediately before the diamond bud is a flag-shaped vane (nga myat na). The very top, the diamond bud (sein bu) is tipped with a 76 carat (15 g) diamond.</item>
+        <item>\u0009 Plinth/upper terrace (Height 2 feet 3 inches)</item>
+        <item>\u0009The first terrace (Height 15 feet 10 inches)
+\u0009 The second terrace (Height 38 feet 5 inches)S
+\u0009 The third terrace (Height 25 feet 10 inches)</item>
+        <item>\u0009Bell-shaped Dome(Circumference 344 feet 8 inches )</item>
+        <item>\u0009Phaung-yit (including Thabeik) (Height 41 feet)</item>
+        <item>\u0009 Kya-Nu, Kya-Lan, Kya-Hmout (Height of the whole part 31 feet 5 inches)</item>
+        <item>\u0009 Kya-Nu, Kya-Lan, Kya-Hmout (Height of the whole part 31 feet 5 inches)</item>
+        <item>\u0009 Kya-Nu, Kya-Lan, Kya-Hmout (Height of the whole part 31 feet 5 inches)</item>
+        <item>\u0009Kya-Lan, Kya-Hmout (Height of the whole part 31 feet 5 inches)</item>
+        <item>\u0009Hti-dout</item>
+        <item>\u0009Hnget-pyaw-phu (Height 52 feet 11 inches girth 65 feet)</item>
+        <item>\u0009Htitaw(Height 44 feet, weight 1.25 ton , 83850 jewelleries, small gold bells 4016, small silver bells 474, others 793 , gold banyan leaves 1805 and 9 gold caskets were offered.</item>
+        <item>\u0009Hnget Myat Na(Length 4 feet 8 inches, width 2.5 feet )</item>
+        <item>\u0009Sein-Phu (22 inches in height ,10.5 inches in diameter (gold globe), inlaid with 4351 diamonds and other precious stones.</item>
+        <item>\u0009 1. Brass-smith\n
+ \u0009 2. Gold-smith, Silver-smith\n
+ \u0009 3. Black-smith\n
+ \u0009 4. Plaster molding or stucco carving\n
+ \u0009 5. Stone carving\n
+ \u0009 6. Masonry\n
+ \u0009 7. Painting\n
+ \u0009 8. Wood turner\n
+ \u0009 9. Wood curving\n
+ \u0009 10. Lacquerware\n</item>
+        <item>\u0009 1. Standing Buddha images\n
+ \u0009 2. Sitting with cross-legged Buddha images\n
+ \u0009 3. Reclining Buddha images\n
+ \u0009 4. Buddha images in the form of giving the prophecy\n
+ \u0009 5. Walking Buddha images\n
+ \u0009 6. Buddha images in the robes of King Jambupadi\n
+ \u0009 7. Buddha images sheltered by Naga\n
+ \u0009 8. Buddha images on the elephants\n
+ \u0009 9. Buddha images under arches\n
+ \u0009 10. Crowned Buddha images\n
+ \u0009 11. Seated Buddha images on the lotus thrones\n</item>
+        <item> \u0009 1. Bhumiphasa mudra( Gestures of the earth touching attitude)\n
+ \u0009 2. Dhamachakra mudra(Gestures of Preaching the First sermon)\n
+ \u0009 3. Dhyana mudra(Gestures of mediation attitude)\n
+ \u0009 4. Vitarka mudra(Gestures of argumenting attitude)\n
+ \u0009 5. Abhaya mudra(Gestures of the fear-dispelling attitude)\n
+ \u0009 6. Varada mudra(Gestures of Giving charity)\n
+ \u0009 7. Mahakarunika mudra(The attitude of embracing a troubled one with high sympathy)\n
+ \u0009 8. Anzalimudra (The attitude of worshipping)\n</item>
+        <item>\u0009 There are vestibules, pyatthat Tazaungs, Tazaungs of various size and type, figures of lions, elephants ,demons, ascetic, zawgyi, devas, Wathonderi, Manokthiha, Tagundaings, Astrological prayer posts, stone lnscriptions, figures of sakka, Meilamu and King Okkalapa, large and small bells and Bodhi Trees.</item>
+        <item>\u0009 1.Temiya\n
+ \u0009 2. Maha Zanaka\n
+ \u0009 3. Suvanasama\n
+ \u0009 4. Ney-mi\n
+ \u0009 5. Mahothada\n
+ \u0009 6. Buridat\n
+ \u0009 7. Sanda Kumara\n
+ \u0009 8. Narada\n
+ \u0009 9. Viruda\n
+ \u0009 10. Vessandara\n</item>
+        <item>\u0009 1. Nativity Scene(in Kapilavastu)\n
+ \u0009 2. Enlightment scene(in Buddagaya)\n
+ \u0009 3. The First sermon(in Benares)\n
+ \u0009 4. Twin miracles(in Sravasti)\n
+ \u0009 5. Descent from Tavatimsa(in Sankasya)\n
+ \u0009 6. Parileyyaka Retreat(in Valsali)\n
+ \u0009 7. The Taming of the Nalagiri Elephant(in Rajagraha)\n
+ \u0009 8. Parinirvana(in Kusinagara)\n</item>
+        <item>\u0009 Eight external Victories of Lord Buddha are as follows:\n
+ \u0009 1. Subjugation of Mara, the Evil one\n
+ \u0009 2. Subjugation of Alavaka, the ogre\n
+ \u0009 3. Subjugation of Nalagiri Elephant\n
+ \u0009 4. Subjugation of Angulimala, collector of 1000 human forefingers\n
+ \u0009 5. Subjugation of Sein samana, evil woman\n
+ \u0009 6. Subjugation of Thitsaka Parabaik, the Sophist\n
+ \u0009 7. Subjugation of Nandaw Panada the Naga and\n
+ \u0009 8. Subjugation of Baka, the Brahma.</item>
+    </string-array>
+
+    <string-array name="famour_thing_pagodas">
+        <item>ChanTharKyi Pagoda</item>
+        <item>NagaTheinGi Pagoda</item>
+        <item>PadaukWine Pagoda</item>
+        <item>Pyi Taw Pyan Pagoda</item>
+        <item>RaZaMuNi Pagoda</item>
+        <item>Sun and Moon Pagoda</item>
+        <item>The Buddha Image near Tuesday corner</item>
+        <item>The Jade Buddha Image</item>
+        <item>The Solid Gold Replica of Shwedagon Pagoda</item>
+        <item>Tiger and Lion Pagoda</item>
+    </string-array>
+
+    <string-array name="famour_thing_statue">
+
+        <item>Arahat</item>
+        <item>BoMinGaung Statue</item>
+        <item>BoTaw Sakka and Shwedagon BoBoGyi</item>
+        <item>Dragon(NaGar), GaLon</item>
+        <item>Indra(Sakka),Mei Lamu,King Okkalapa</item>
+        <item>Lawkaparla Yakha(ogress) Maltawkyi</item>
+        <item>Manokthiha</item>
+        <item>Shin U Pagoteta Arhat</item>
+        <item>Shinizzagawna  Monk</item>
+        <item>The Male Brahma with a baby boy</item>
+        <item>Two Ogres</item>
+        <item>Wasondari</item>
+        <item>Yangon Bo Bo Gyee</item>
+        <item>Zawgyi and Ascetics</item>
+
+    </string-array>
+
+    <string-array name="famour_thing_others">
+        <item>An inscribed stone monument</item>
+        <item>"Buddha's footprint"</item>
+        <item>"Buddha's Lift History Exhibition"</item>
+        <item>DhammaCeti Inscribed Stones</item>
+        <item>Gongs</item>
+        <item>Gyo-Taing</item>
+        <item>"King Tharawaddy's Bell"</item>
+        <item>Maha Bodhi(Banyan) Tree</item>
+        <item>"Replica Ceti of Renovated King Mindon's Htitaw"</item>
+        <item>Shrines with small glided ceti</item>
+        <item>Shwedagon Pagoda Photo Gallery</item>
+        <item>"Singumin's MAHA GANDA Great Bell"</item>
+        <item>Tagundaing</item>
+        <item>The old remnants of old British Fort</item>
+        <item>The Senguttara Park</item>
+        <item>Thway Say Kan(Blood Cleaning Lake)</item>
+        <item>Two-piece Tazaung</item>
+        <item>White-washed concrete replicas of \"Htitaw\"</item>
+    </string-array>
+    <string-array name="famous_thing_pagoda_desc">
+
+	<item>\u0009 ChanTharKyi Pagoda is located at the straight way from Northern elevator (near SintGuMin Bell) and Rahu corner. Shwedagon Pagoda Photo Gallery building is beside that vestibule.
+</item>
+	<item>\u0009 This pagoda is situated beside the Western covered stairways. Many people pray at there.
+</item>
+	<item>\u0009 This pagoda is situated between the Rahu and Friday corner pagoda platform near to the Shwedagon Pagoda Photo Gallery.
+</item>
+	<item>\u0009 This pagoda is situated near the BoBoAung Cave Pagoda and Naung Taw Gyi Ceti (near Sunday corner).
+</item>
+	<item>\u0009 This pagoda is situated near the BoBoAung Cave Pagoda and Naung Taw Gyi Ceti(near Sunday corner).
+</item>
+	<item>\u0009 This pagoda is located at the Saturday corner.
+ </item>
+	<item>\u0009 This pagoda is located at the Tuesday corner. People believe that drops of water are dropping down slowly from Buddha Image\'s finger.
+</item>
+	<item>\u0009 The state peace and development council, in commemoration of the new Htitaw Hoisting ceremony had sculpted a Jade Buddha Image and placed it temporarily in U Maung Gyee\'s Tazuang on 9th April, 1999 and then placed permanently in Ponnya Kuthala Athin (CMA) Tazaung (later to be known as \"Kyauk-Sein-Tazaung\").
+ \u0009 The jade Buddha image, in Bhumiphassa mudra is of the height of 30 inches without throne.
+</item>
+	<item> \u0009 The state peace and development council in commemoration of the new Htitaw Hoisting ceremony made a solid gold replica of Shwedagon Pagoda (45 inches in height) and conveyed it to U Maung Gyee Tazaung (Now-Shweceti Tazaung on 30th April 1999).
+</item>
+	<item>\u0009 Tiger and Lion Pagoda was donated by King Dhammaceti (son-in-law of Queen Shinsawpu). It is situated beside Dhammaceti Pagoda. Dhammaceti Pagoda is located behind the Bo Bo Aung cave Pagoda (near Sunday corner).
+</item>
+    </string-array>
+
+    <string-array name="famous_thing_statue_desc">
+        <item>\u0009 The figures of Arahat represent the saintly monks.</item>
+		<item>\u0009 BoMinGaung statue is located behind the Sunday corner and near DhammaCeti inscribed stones.
+</item>
+		<item>\u0009 These statues are located near the Saturday corner pagoda platform.
+</item>
+		<item>\u0009 The traditional arts and crafts from Souther Stairways Enterance.
+</item>
+		<item>\u0009 We can see figures of Sakka and Mei Lamu on the Saturday corner wall of the plinth and that of King Okkalapa on the Tuesday corner wall.
+\u0009 The Indra (Sakka) is the father of Okkalarpa King and founded Okkalapa province for his son.
+\u0009 Mei Lamu is the mother of King Okkalapa. She was born from a big wonderful Lamu bud. She was a very charming and graceful lady.
+\u0009 King Okkalapa is the son of Sakka and Mei Lamu. He built the Shwedagon Pagoda with the help of Sakka, Holy Spirits (nats) and two merchant brothers.
+</item>
+		<item>\u0009 LawKaParLa Yakha MaltawKyi is situated at the top aside of the Northern Covered Stairways.
+</item>
+		<item>\u0009 Manokthiha is the mythical fabulous figure of man-faced twin-bodied lion.
+</item>
+		<item>\u0009 Shin U Pagoteta Arhat bronze statue is situated inside the Senguttara Park. Many people donate and pray at there. There\'s a small lake around the Arhat image and it has so many fishes and turtles inside it. Many people come to feed up fishes and turtles everyday.
+</item>
+		<item>\u0009 ShinIzzaGawna of Bagan peroid was an accomplished alchemist who had made successfully experiment to turn base metals into gold.
+</item>
+		<item>\u0009 Many people believes that the male spirit (nat) between Tuesday and Wednesday corner can pray to bear a baby boy.
+</item>
+		<item>\u0009 These two ogres statues are one of the famous things inside Shwedagon campus and they are situated at the Southern Stairways Entrance.
+</item>
+		<item>\u0009 Wasondari is the guardian goddess of earth represented in the form of squeezing water out of her hair.
+</item>
+		<item>\u0009 There is a sprite-shrine for so-called \"Yangon Bo Bo Gyee\" in the Saturday corner of the lower terrace close to a remnant of old British armory during the Anglo-Myanmar Wars.
+</item>
+		<item>\u0009 Zawgyi is said to be an alchemist and an ascetic is a hermit who leads a simple and strict way of life as a religious belief.
+</item>
+    </string-array>
+
+    <string-array name="famous_thing_others_desc">
+
+		<item>\u0009 An inscribed stone monument was erected on the same place where eleven iron-willed college students namely Ko Bo Shin, Ko Nyi Peik, Ko Po Kun, Ko Aye, Ko Hla Tin, Ko Pe Thein, Ko Tun Win, Ko Ba Shin, Ko Ba Khin, Ko Aung Din and Ko Ba U had held a secret meeting which lasted for eight hours in 3-12-1920 to decide to boycott the 1920 University Act. The stone monument was inscribed in Myanmar, English, French and Russia.
+</item>
+		<item>\u0009 A chidawyar or settawyar (Buddha\'s footprint) is a symbolic foot print of Lord Buddha cast in stone.
+</item>
+		<item>\u0009 You can walk 50 feet North from the Western Approach to \"Buddha\'s Lift History Exhibition\" (300 feet long and 84 feet wide).
+</item>
+		<item>\u0009 These inscribed stones were donated by King DhammaCeti and these were inscribed with Mon, Myanmar, ParLi languages. It is situated behind the Sunday corner and near NaungTawGyi ceti.
+</item>
+		<item>\u0009 At the front of the Buddha\'s Life History building, we can see the two big gongs. These gongs are located at the front of \"Buddha\'s Lift History Exhibition\" (50 feet North from the Western Approach and behind the SintGuMin\'s Great Bell.
+ </item>
+		<item>\u0009 Gyo-Taing is a planetary post erected around the pagoda platform. Everyone born on a day in a week has a planetary prayer post each.
+\u0009
+\u00091. Planetary prayer post for Sunday-born is in the North-East
+\u00092. Planetary prayer post for Monday-born is in the East.
+\u00093. Planetary prayer post for Tuesday-born is in the South-East
+\u00094. Planetary prayer post for Wednesday-born is in the North-West
+\u00095. Planetary prayer post for Rahu-born is in the North-West
+\u00096. Planetary prayer post for Thursday-born is in the West
+\u00097. Planetary prayer post for Friday-born is in the North
+\u00098. Planetary prayer post for Saturday-born is in the South-West.
+</item>
+		<item>\u0009 In 1843, King Tharawaddy donated \"Maha Tithada Ganda\" (Three-toned Bell), weight about 40 tons and 7 feet in height. It can now be seen in Daw Thi Tazaung, in the North-East (Sunday corner) of the Shwedagon Pagoda platform.
+ </item>
+		<item>\u0009 Bodhi (Banyan) trees can be seen around the behind of the corners of pagoda platform. People pray, take meditation under Bodhi trees. Most of the Bodhi are sacred for all Buddhisms as those trees are grown from a seed of the original at Budda Gaya in India, under which Lord Buddha attained Enlightment.
+</item>
+		<item> \u0009 On the 22nd December 1999 a replica ceti of renovated King mindon\'s Htitaw was built in North-East (Sunday corner) of the Pagoda platform.
+</item>
+		<item>\u0009 Seventy-two small shrines flanked by the images of Lions, Demons, Zawgyi, Nat and Wathondaray were built around the pagoda platform below the plinth.
+\u0009 Note: The Shrine (No 15) is donated by Galon U Saw\'s family.
+</item>
+		<item>\u0009 Shwedagon Pagoda Photo Gallery is situated near the Northern elevator.
+</item>
+		<item>\u0009 Singumin\'s MAHA GANDA Great Bell, weighing about 16 tons and 11 feet 6 inches in height was taken in a ship to calcutta by British as a War trophy in 1825 and was sank in Yangon river together with the boat, But, in 1826 Myanmar had managed to salvage the Great Bell and reinstate it on the pagoda platform.
+</item>
+		<item>\u0009 Tagundaing is a kind of beautifully decorated tall flagstaff erected near the pagodas. Generally, we can see a figure of Hamsa at the top and figures of Sakka, Naga or Galon at the base.
+\u0009 Note: Close to Dr. U Nyo\'s Tazaung is a tall Tagundaing (now renovated) which appears to be the best strangest \"Tagundaing with its red-and-gold-stripes\".
+\u0009 It appears to be extraordinary to see a Tagundaing on which top an arahat is standing and two ascetics are trying to climb up the pole.
+</item>
+		<item>\u0009 The following remnants of old British Fort during the First Anglo-Myanmar war can still be seen:
+\u00091. 26 old sites of British Artillery Regiment (in the South-West, North-West, North-East, and South-East corners of the Shwedagon Pagoda Hills).
+\u00092. Old rampart walls with gun-firing holes (in the South-west corner)
+\u00093. old sites of trench and
+\u00094. old armory at the lowest terrace in Saturday corner (near Yangon Bo Bo Gyi Shrine).
+</item>
+		<item> \u0009 The Senguttara Park (on 10.5 acre land) is situated at the feet of the Northern Entrance and western entrance of the shwedagon pagoda and it was open to public in 1990.
+</item>
+		<item> \u0009 Blood cleaning lake is situated beside of the Northern Main Stairways Entrance. During the first Anglo-Myanmar wars Myanmar Resistance Fighters, after fighting at close quarters, had to clean their blood-stained swords with water in that lake and thus it came to be known as \"Thwe Say Kan, Blood Cleaning Lake\".
+</item>
+		<item>\u0009 Before the Second World War in Myanmar the original \"Two-piece\" Tazaung (now renovated) was erected out of a daily contribution of two piece per head from Buddhist shopkeepers of the Theingyi Zay (then Rangoon Suratee Bazaar). The second of the \"Two-piece\" Tazaungs is on the north-east ground of the pagoda.
+</item>
+		<item>\u0009 Of the two concrete replicas of Htitaw, the bigger model was that of King Mindon in 1781 placed atop the Shwedagon Pagoda and the other replica was that of Sinbyushin made in 1774.
+</item>
+
+    </string-array>
+
+
+
+
+</resources>

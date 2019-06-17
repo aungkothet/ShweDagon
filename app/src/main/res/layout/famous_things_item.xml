@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.testing1.example.android.testingpj.Items.FamousThingsItem xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    card_view:cardElevation="@dimen/card_elevation"
+    card_view:cardUseCompatPadding="true">
+
+    <TextView
+        android:id="@+id/tv_famous_item"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:fontFamily="sans-serif-condensed"
+        android:padding="@dimen/margin_medium"
+        android:textAppearance="?android:textAppearanceLarge"
+        android:textColor="#535252" />
+</com.testing1.example.android.testingpj.Items.FamousThingsItem>
